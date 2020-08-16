@@ -1,0 +1,15 @@
+{
+  "name": "pixijs-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "keywords": [],
+  "author": "bcoble",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*"
+  }
+}
